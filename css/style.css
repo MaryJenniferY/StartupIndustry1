@@ -1600,7 +1600,7 @@ p{
 
 .smic{
     list-style:none;
-    text-align: center;
+    text-align: end;
     margin: 0 auto;
 }
 
@@ -1611,7 +1611,7 @@ p{
 
 .smic i{
     font-size: 19px;
-    margin-bottom: 10px;
+/*    margin-bottom: 10px;*/
 }
 
 .smic a {
